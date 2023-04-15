@@ -4,3 +4,5 @@ Purpose: This project will address education opportunity inequality in U.S. high
 
 Data: This project will use two data sets - The first is EdGap_data.xlsx from [EdGap.org](https://www.edgap.org/#5/37.875/-96.965) in 2016, and contains data about average ACT scores, SAT scores, and socioeconomic characteristics for schools in several districts. The second data set is ccd_sch_029_1617_w_1a_11212017.csv is from the National Center for Educational Statistics https://nces.ed.gov/ccd/pubschuniv.asp, and has more basic data about each of these schools. 
 
+NCES data set: https://www.dropbox.com/s/lkl5nvcdmwyoban/ccd_sch_029_1617_w_1a_11212017.csv?dl=0
+
