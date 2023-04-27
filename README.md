@@ -6,3 +6,4 @@ Data: This project will use two data sets - The first is EdGap_data.xlsx from [E
 
 NCES data set: https://www.dropbox.com/s/lkl5nvcdmwyoban/ccd_sch_029_1617_w_1a_11212017.csv?dl=0
 
+Data Preparation: Within the Ed Gap data set and the school info data set, we convert the data types of variables so that they will match, and then drop sections of each data set that aren't relevant to the question. The two data sets are then joined, and an imputer is used to create values to replace any missing entries of predictor variables. Data frame is separated into training and testing data sets. 
