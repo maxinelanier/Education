@@ -16,4 +16,4 @@ A new subset of data to analyzed, household size, was added, and the data prepar
 # Author:
 Maxine Lanier
 # Liscence: 
-Anyone can use.
+Anyone may use.
